@@ -1,6 +1,6 @@
 # EFK Stack
 
-<u><span style="font-size:24.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">EFK</span></u>
+<!-- <u><span style="font-size:24.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif">EFK</span></u> -->
 
 <span style="font-size:14.0pt;
 line-height:107%;font-family:&quot;Times New Roman&quot;,serif"> </span>
@@ -61,10 +61,9 @@ mso-no-proof:yes">
 <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"> </span>
 
 <span style="font-size:14.0pt;line-height:107%;font-family:
-&quot;Times New Roman&quot;,serif">EKF components get deployed as follows,</span>
+&quot;Times New Roman&quot;,serif">EKF components get deployed as follows:</span>
 
-<span style="font-size:14.0pt;line-height:107%;font-family:
-&quot;Times New Roman&quot;,serif"> </span>
+
 
 <span style="font-size:14.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:
 Symbol;mso-bidi-font-family:Symbol">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;"></span></span> <span style="font-size:14.0pt;line-height:107%;
@@ -78,6 +77,9 @@ font-family:&quot;Times New Roman&quot;,serif">Elasticsearch: - Deployed as stat
 Symbol;mso-bidi-font-family:Symbol">·<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;"></span></span> <span style="font-size:14.0pt;line-height:107%;
 font-family:&quot;Times New Roman&quot;,serif">Kibana: - Deployed as deployment and connects to elasticsearch service endpoint.</span>
 <br>
+<br>
+<span style="font-size:14.0pt;line-height:107%;font-family:
+&quot;Times New Roman&quot;,serif"> </span>
 ![](https://i.imgur.com/UMV2Lti.png)
 <span style="font-size:14.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"></span>
 
